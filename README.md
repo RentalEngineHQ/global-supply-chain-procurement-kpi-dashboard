@@ -1,4 +1,4 @@
-# B2B Global Supply Chain & Procurement KPI Dashboard & Material Flow Engine (No Subscriptions)
+# B2B Supply Chain & Procurement KPI Dashboard & Material Flow Engine (No Subscriptions)
 
 Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
