@@ -1,0 +1,14 @@
+{
+  "asset_class": "B2B Global Supply Chain & Procurement KPI Dashboard & Material Flow Engine",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "physical_asset_vin_inventory_logs",
+    "capital_cost_basis_acquisition_matrices",
+    "automated_macrs_depreciation_codes",
+    "residual_terminal_net_book_value"
+  ]
+}
